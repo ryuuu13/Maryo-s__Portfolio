@@ -1,0 +1,23 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <header class="top-nav">
+        <a class="brand" href="/">Mario III P. Arreglo</a>
+        <div class="nav-links">
+            <NavLink href="/" Match="NavLinkMatch.All">Home</NavLink>
+            <NavLink href="/about">About</NavLink>
+            <NavLink href="/portfolio">Portfolio</NavLink>
+            <NavLink href="/contact">Contact</NavLink>
+        </div>
+    </header>
+
+    <main class="main-content">
+        @Body
+    </main>
+</div>
+
+<div id="blazor-error-ui" data-nosnippet>
+    An unhandled error has occurred.
+    <a href="." class="reload">Reload</a>
+    <span class="dismiss">🗙</span>
+</div>
