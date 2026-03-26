@@ -70,8 +70,6 @@ C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compres
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\mq7bw4j9go-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\oh94t3vmnr-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\ps8vwoiz0w-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\3lu6kp55us-{0}-ivkrhmz5qy-ivkrhmz5qy.gz
-C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\okvw7nrjui-{0}-ivkrhmz5qy-ivkrhmz5qy.gz
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\staticwebassets.development.json
@@ -82,4 +80,7 @@ C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\refint\
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\Ryu.pdb
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\Ryu.genruntimeconfig.cache
 C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\ref\Ryu.dll
-C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\jd8s9p7z73-{0}-4cwdtrv2ns-4cwdtrv2ns.gz
+C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\Ryu.sourcelink.json
+C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\jd8s9p7z73-{0}-b9hxwujrnt-b9hxwujrnt.gz
+C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\3lu6kp55us-{0}-o0z64ybxjk-o0z64ybxjk.gz
+C:\Users\Toshi\OneDrive - cepinm.org\Documents\AP3\Ryu\obj\Debug\net10.0\compressed\okvw7nrjui-{0}-o0z64ybxjk-o0z64ybxjk.gz
