@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\AP3\\Ryu\\Ryu.csproj": {}
+    "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\Portfolio\\Mario\\Ryu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\AP3\\Ryu\\Ryu.csproj": {
+    "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\Portfolio\\Mario\\Ryu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\AP3\\Ryu\\Ryu.csproj",
+        "projectUniqueName": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\Portfolio\\Mario\\Ryu.csproj",
         "projectName": "Ryu",
-        "projectPath": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\AP3\\Ryu\\Ryu.csproj",
+        "projectPath": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\Portfolio\\Mario\\Ryu.csproj",
         "packagesPath": "C:\\Users\\Toshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\AP3\\Ryu\\obj\\",
+        "outputPath": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\Portfolio\\Mario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Toshi\\AppData\\Roaming\\NuGet\\NuGet.Config"
