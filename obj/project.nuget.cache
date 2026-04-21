@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Eij/4ap9Hjk=",
+  "dgSpecHash": "t4nQ8sJMF6c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\Portfolio\\Mario\\Ryu.csproj",
+  "projectFilePath": "C:\\Users\\Toshi\\OneDrive - cepinm.org\\Documents\\New folder (2)\\Maryo-s__Portfolio\\Ryu.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Toshi\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+    "C:\\Users\\Toshi\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.6\\microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512"
   ],
   "logs": []
 }
